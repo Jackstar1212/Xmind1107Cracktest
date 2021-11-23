@@ -1,0 +1,30 @@
+/*!
+ * @overview es6-promise - a tiny implementation of Promises/A+.
+ * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
+ * @license   Licensed under MIT license
+ *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
+ * @version   3.3.1
+ */
+
+/*!
+ * Timm
+ *
+ * Immutability helpers with fast reads and acceptable writes.
+ *
+ * @copyright Guillermo Grau Panea 2016
+ * @license MIT
+ */
+
+/*! Selectionjs 1.2.1 MIT | https://github.com/Simonwep/selection */
+
+/*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
+
+/**
+     * @license
+     * Copyright (c) 2014 The Polymer Project Authors. All rights reserved.
+     * This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+     * The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+     * The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+     * Code distributed by Google as part of the polymer project is also
+     * subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+     */
